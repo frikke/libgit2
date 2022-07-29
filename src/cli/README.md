@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 # cli
 
 A git-compatible command-line interface that uses libgit2.
@@ -23,4 +27,3 @@ A git-compatible command-line interface that uses libgit2.
 3. Commands should accept a `--help` option that displays their help
    information.  This will be shown when a user runs `<command> --help` and
    when a user runs `help <command>`.
-
