@@ -1,5 +1,5 @@
 ---
-type: Journal
+type: Checklist
 ---
 
 # cli
